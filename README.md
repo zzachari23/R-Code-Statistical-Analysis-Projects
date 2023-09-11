@@ -16,5 +16,5 @@ Within the repository, you will find two projects, each accompanied by a fully d
    <img height="300" hspace="23"/> 
   <img src="https://github.com/zzachari23/R-Code-Statistical-Analysis-Projects/blob/main/Screenshot%202023-09-11%20at%202.12.48%20AM.png" width="300" height = "250"/>
 </p>
-<pre>        ERD Diagram                    Data Visualization via Tableau (SQL Project)     </pre>
+<pre>        Bar Chart                    QQ-Plot     </pre>
 
